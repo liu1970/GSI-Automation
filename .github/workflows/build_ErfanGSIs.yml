@@ -14,10 +14,10 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ayera.dl.sourceforge.net/project/miuiromports//Whyred/MASIK%20X/Masik%20X%2013.2%20v2%20Whyred%20port.zip
-  ROM_NAME: MIUI:MasikX
-  ZIP_NAME: MasikX
-  TZ: Asia/Kolkata
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus8Oxygen_15.O.18_OTA_018_all_2005301414_eb1cf0a2f4074811.zip
+  ROM_NAME: OxygenOS
+  ZIP_NAME: OxygenOS-HeliosGSI
+  TZ: Middle-East/Kuwait
 
 jobs:
   build:
