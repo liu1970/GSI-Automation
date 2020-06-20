@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://tdrive.manofuranium.workers.dev/afd338bfb14d447b716c220424b2ad2c66213183.zip
-  ROM_NAME: Generic:Nokia
-  ZIP_NAME: Nokia-HeliosGSI
+  ROM_URL: https://netix.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.6.17/xiaomi.eu_multi_HMNote8_20.6.17_v12-10.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUI-HeliosGSI
   TZ: Middle-East/Kuwait
 
 jobs:
