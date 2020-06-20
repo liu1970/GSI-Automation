@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus8Oxygen_15.O.18_OTA_018_all_2005301414_eb1cf0a2f4074811.zip
-  ROM_NAME: OxygenOS
-  ZIP_NAME: OxygenOS-HeliosGSI
+  ROM_URL: https://tdrive.manofuranium.workers.dev/afd338bfb14d447b716c220424b2ad2c66213183.zip
+  ROM_NAME: Generic:Nokia
+  ZIP_NAME: Nokia-HeliosGSI
   TZ: Middle-East/Kuwait
 
 jobs:
