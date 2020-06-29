@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMK20MI9T_V12.0.3.0.QFJCNXM_v12-10.zip
-  ROM_NAME: MIUI
-  ZIP_NAME: MIUI-HeliosGSI
+  ROM_URL: https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZE620KL/UL-ASUS_X00QD-ASUS-AOSP-17.0615.2005.25-1.1.1-user.zip
+  ROM_NAME: Generic:Asus
+  ZIP_NAME: Asus-HeliosGSI
   TZ: Middle-East/Kuwait
 
 jobs:
