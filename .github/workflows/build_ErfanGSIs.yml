@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZE620KL/UL-ASUS_X00QD-ASUS-AOSP-17.0615.2005.25-1.1.1-user.zip
-  ROM_NAME: Generic:Asus
-  ZIP_NAME: Asus-HeliosGSI
+  ROM_URL: https://netix.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_HM6Pro_V11.0.6.0.PDICNXM_v11-9.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUI-Helios
   TZ: Middle-East/Kuwait
 
 jobs:
