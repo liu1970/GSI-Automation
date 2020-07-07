@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netcologne.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms//xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_HM8_V11.0.1.0.QCNCNXM_v11-10.zip
-  ROM_NAME: MIUI
-  ZIP_NAME: MIUI-Helios
+  ROM_URL: https://dl.google.com/dl/android/aosp/taimen-qq3a.200705.002-factory-0262da86.zip
+  ROM_NAME: Pixel
+  ZIP_NAME: Pixel-Helios
   TZ: Middle-East/Kuwait
 
 jobs:
