@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/taimen-qq3a.200705.002-factory-0262da86.zip
-  ROM_NAME: Pixel
-  ZIP_NAME: Pixel-Helios
+  ROM_URL: https://tdrive.manofuranium.workers.dev/MiuiMiX_2.2.0_ginkgo_20.7.16_v12-10.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUI-Helios
   TZ: Middle-East/Kuwait
 
 jobs:
