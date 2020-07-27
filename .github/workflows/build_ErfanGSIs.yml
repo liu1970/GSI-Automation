@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://tdrive.manofuranium.workers.dev/MiuiMiX_2.2.0_ginkgo_20.7.16_v12-10.zip
-  ROM_NAME: MIUI
-  ZIP_NAME: MIUI-Helios
+  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_062_all_2005291737_04f9b97b5ae84d67.zip
+  ROM_NAME: OxygenOS:HydrogenOS
+  ZIP_NAME: HydrogenOS-Helios
   TZ: Middle-East/Kuwait
 
 jobs:
