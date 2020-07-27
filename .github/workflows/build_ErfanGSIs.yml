@@ -18,7 +18,7 @@ env:
   ROM_NAME: ColorOS
   ZIP_NAME: Realmeme
   TZ: Asia/Kolkata
-  MIR: bit
+  MIR: gof
 jobs:
   build:
     runs-on: ubuntu-latest
