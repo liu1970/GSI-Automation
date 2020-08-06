@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://android.googleapis.com/packages/ota-api/vsmart_pq4002_pq4002vsmart/5c3d313baf97f25606b031fb316553d0b89c6e9e.zip
-  ROM_NAME: VOS
+  ROM_NAME: Generic:VOS
   ZIP_NAME: VOS-Helios
   TZ: Middle-East/Kuwait
 
