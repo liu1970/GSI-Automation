@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/vsmart_pq4002_pq4002vsmart/5c3d313baf97f25606b031fb316553d0b89c6e9e.zip
-  ROM_NAME: Generic:VOS
-  ZIP_NAME: VOS-Helios
+  ROM_URL: https://download.meizu.com/Firmware/Flyme/note9/8.20.8.12/cn_daily/20200812003720/5d107283/update.zip
+  ROM_NAME: Flyme
+  ZIP_NAME: Flyme-Helios
   TZ: Middle-East/Kuwait
 
 jobs:
@@ -35,7 +35,7 @@ jobs:
 
        
        - name: Clone ErfanGSI Source Code
-         run: git clone --recurse-submodules https://github.com/JamieHoSzeYui/ErfanGSIs
+         run: git clone --recurse-submodules https://github.com/123ridhin/ErfanGSIs.git
        
        - name: Setting up ErfanGSI requirements
          run: |
