@@ -17,8 +17,7 @@ env:
   ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17_Pro/8.1.2.4/cn/20200908205339/d4cc2a1c/update.zip
   ROM_NAME: Flyme
   ZIP_NAME: Flyme_ROM
-  TZ: Middle-East/Kuwait
-
+  TZ: Asia/Shanghai
 jobs:
   build:
     runs-on: ubuntu-latest
